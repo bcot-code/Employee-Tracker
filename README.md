@@ -1,12 +1,8 @@
-# Employee-Tracker
-
-Module 12 creating id for employees and developers once generated .
-
 <div align="center">
 
 # Project Title: Employee Tracker
 
-Module 10 - Generate a LOGO svg of basic shapes such circle, square, and triangle. Including color and color text of the user's or developers choice. Just for the logo there would be a limit of 3 characters in text.
+Module 12 This allows the user or developer to enter , update, delete or show employee tracker.
 
 ## Screencastify Tutorial
 
