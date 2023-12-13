@@ -6,7 +6,7 @@ Module 12 This allows the user or developer to enter , update, delete or show em
 
 ## Screencastify Tutorial
 
-[Tutorial how to use app]()
+[Tutorial how to use app](https://watch.screencastify.com/v/dp4IiosvNrO4qWhjCrjV)
 
 </div>
 
@@ -34,12 +34,8 @@ SO THAT I can organize and plan my business
 
 ## Screenshot
 
-![](![Alt text]())
-
-[](![Alt text]())
-
-[](![Alt text]())
+![Screenshot](![Alt text](/assets/Screen%20Shot%202023-12-13%20at%204.26.20%20PM.png))
 
 ## Repository
 
-[My GitHub](https://github.com/bcot-code/)
+[My GitHub](https://github.com/bcot-code/Employee-Tracker)
